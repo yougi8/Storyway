@@ -31,7 +31,7 @@
 
 ### image
 
-![mainpage](./img/mainpage.png)
+![mainpage](.Storyway/img/mainpage.png)
 
 ![checkinfo](./img/checkinfo.png)
 
