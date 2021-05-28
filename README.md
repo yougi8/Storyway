@@ -19,11 +19,11 @@
 
 #### Main
 
-![main_flow](.StoryWay/img/main_flow.png)
+![main_flow](./StoryWay/img/main_flow.png)
 
 #### Algorithm
 
-![algo_flow](./img/algo_flow.png)
+![algo_flow](./StoryWay/img/algo_flow.png)
 
 ## HTML
 
