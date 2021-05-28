@@ -31,11 +31,11 @@
 
 ### image
 
-![mainpage](.Storyway/img/mainpage.png)
+![mainpage](./Storyway/img/mainpage.png)
 
-![checkinfo](./img/checkinfo.png)
+![checkinfo](./StoryWay/img/checkinfo.png)
 
-![showretval](./img/showretval.png)
+![showretval](./StoryWay/img/showretval.png)
 
 ## Contributor
 
