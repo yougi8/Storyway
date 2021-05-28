@@ -19,7 +19,7 @@
 
 #### Main
 
-![main_flow](./img/main_flow.png)
+![main_flow](.StoryWay/img/main_flow.png)
 
 #### Algorithm
 
